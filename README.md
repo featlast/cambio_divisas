@@ -1,6 +1,6 @@
 # Cambio Divisas 
 
-## Proyecto en Vite, con Axios, estilos en css
+## Proyecto en ReactJs-Vite, con Axios, estilos en css
 
 #### Para Ejecutar el proyecto debe escribir el comando: npm i, luego npm run dev
 
