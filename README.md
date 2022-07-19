@@ -2,6 +2,7 @@
 
 ## Proyecto en ReactJs-Vite, con Axios, estilos en css
 
+### NOTA: La APi que estoy consumiendo para las divisas solo me permite una prueba de 8 días.
 #### Para Ejecutar el proyecto debe escribir el comando: npm i, luego npm run dev
 
 Print Screen
